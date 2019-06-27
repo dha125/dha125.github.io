@@ -28,7 +28,9 @@ github_username:  dha125
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minima
+# remote_theme: "mmistakes/minimal-mistakes@4.16.4"
 plugins:
   - jekyll-feed
 
